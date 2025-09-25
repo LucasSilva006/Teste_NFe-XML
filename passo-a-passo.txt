@@ -1,0 +1,7 @@
+PRIMEIRO PASSO
+
+Com o Python instalado em sua máquina, execute os arquivos "criar_xmls.py" e "gerar_3_xmls.py"
+Verifique se uma pasta chamada "xml" foi criada, verique também se foram gerados 5 arquivos extensão .xml
+
+Mediante a confirmação dos passos anteriores, execute o arquivo "index.py"
+No seu console será exibido um resumo sobre o que o programa fez, além disso, também será gerado um arquivo formato .xlsx que poderá ser aberto com o Excel, LibreOffice Calc ou algum outro software de planilhas
